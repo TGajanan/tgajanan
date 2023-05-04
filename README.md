@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2021/08/Animation-Styles-for-Beginners-header.jpg)
 <h1 align="center">Hi 👋, I'm Gajanan</h1>
 <h3 align="center">Intern | Enthusiast | Cloud computing | Data Science | Seeking Opportunities</h3>
